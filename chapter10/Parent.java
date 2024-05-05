@@ -1,10 +1,10 @@
 
 public class Parent {
-    public Parent(){
+    public Parent(String Str){
         System.out.println("Parent Constructor");
     }
 
-    public void pringName(){
+    public void printName(){
         System.out.println("Parent printName()");
     }
 }
