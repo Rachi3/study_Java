@@ -1,4 +1,3 @@
-package 상속;
 
 public class Child extends Parent {
     public Child(){

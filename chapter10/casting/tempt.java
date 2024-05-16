@@ -8,6 +8,6 @@ public class tempt {
         // 그렇다면 override를 한상태여도 가능하냐???
 
         CTP.printName();
-        CTP.printUpcasting();
+        //CTP.printUpcasting();
     }
 }

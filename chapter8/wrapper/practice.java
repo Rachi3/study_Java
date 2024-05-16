@@ -19,5 +19,10 @@ class practice{
 
         // s1="ih";
         // System.out.println(s1.hashCode());
+
+        Integer i7=1;
+        Integer i8=1;
+
+        System.out.println(i7==i8);
     }
 }

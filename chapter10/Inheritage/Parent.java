@@ -1,4 +1,4 @@
-package 상속;
+
 
 public class Parent {
     public Parent(String Str){

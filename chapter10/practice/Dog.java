@@ -1,3 +1,5 @@
+package practice;
+
 public class Dog extends Animal{
     boolean isNeutering;//중성화 여부
 
